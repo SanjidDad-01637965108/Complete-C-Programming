@@ -1,0 +1,3 @@
+C:/Users/conta/OneDrive/Documents/GitHub/Complete-C-Programming/cmake-build-debug/CMakeFiles/Complete_C_Programming.dir
+C:/Users/conta/OneDrive/Documents/GitHub/Complete-C-Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/OneDrive/Documents/GitHub/Complete-C-Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
