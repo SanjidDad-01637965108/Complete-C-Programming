@@ -48,7 +48,8 @@
   <li>% p (For Pointer)</li>
   <li>% u (For Unsigned Integer)</li>
  </ol>
-
-
-
+ <p><b>Q.7 What is IF…ELSE Statement In C Programming?</b></p>
+ <p><b>Ans:</b> In Programming if/else statement executes a block of code if a specified condition is true. If the test expression is evaluated to true, statements inside the body of if are executed. If the test expression is evaluated to false, statements inside the body of if are not executed.</p>
+ <p><b>Q.8 What is Nested IF…ELSE In C Programming?</b></p>
+ <p><b>Ans:</b> In Programming nested if/else means statement inside the body of another if...else statement.</p>
 
